@@ -16016,6 +16016,7 @@ encoder:
 大门不出	dmbi
 垫板	dmbj
 电表	dmbn
+电波	dmbo
 颠簸	dmbo
 垫背	dmbw
 代名词	dmc
@@ -20109,6 +20110,7 @@ encoder:
 固件	gujm
 骨节	gujp
 故居	guju
+股价	gujx
 骨架	gujx
 孤军	gujy
 顾客	guke
@@ -39138,6 +39140,7 @@ IP地址	ipdv
 市民	uimb
 时髦	uimc
 十米	uimi
+实名	uimk
 使命	uimk
 失眠	uimm
 始末	uimo
@@ -44523,12 +44526,14 @@ IP地址	ipdv
 香甜	xltm
 相托	xlto
 相同	xlts
+相通	xlts
 乡土	xltu
 相投	xltz
 乡绅	xluf
 相声	xlug
 向上	xluh
 相识	xlui
+像是	xlui
 香山	xluj
 想说	xluo
 心灵手巧	xluq
@@ -48531,6 +48536,7 @@ IP地址	ipdv
 有仇	yziz
 有劲	yzjb
 纡尊降贵	yzjg
+游记	yzji
 邮寄	yzji
 幽静	yzjk
 邮件	yzjm
@@ -50068,7 +50074,6 @@ IP地址	ipdv
 耽搁	djge
 打家劫舍	djju
 独具匠心	djjx
-电波	dmbo
 点播	dmbo
 独门独户	dmdh
 垫付	dmfu
@@ -50344,6 +50349,7 @@ IP地址	ipdv
 坚固	jmgu
 监察	jmia
 见解	jmjp
+简介	jmjp
 间距	jmju
 假模假样	jmjy
 贱人	jmrf
