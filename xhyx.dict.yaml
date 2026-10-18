@@ -14099,7 +14099,7 @@ encoder:
 操作	cczo
 嘈杂	ccza
 操纵	cczs
-财宝	cdbc
+财报	cdbc
 彩笔	cdbi
 菜板	cdbj
 采编	cdbm
@@ -18995,6 +18995,7 @@ encoder:
 格斗	gedz
 各方	gefh
 高尔夫	gefu
+各个	gege
 哥哥	gege
 孤儿寡妇	gegf
 孤儿寡母	gegm
@@ -19134,6 +19135,7 @@ encoder:
 滚滚而来	ggel
 更高	gggc
 更改	gggd
+梗概	gggd
 更广	gggl
 公共关系	gggx
 高高挂起	gggq
@@ -20086,7 +20088,6 @@ encoder:
 孤高	gugc
 股改	gugd
 谷歌	guge
-故事梗概	gugg
 骨干	gugj
 古怪	gugk
 故国	gugo
@@ -20354,6 +20355,7 @@ encoder:
 挂断	gxdr
 挂到	gxdc
 挂挡	gxdh
+寡淡	gxdj
 勾心斗角	gxdj
 高姓大名	gxdm
 恭喜发财	gxfc
@@ -21515,6 +21517,7 @@ encoder:
 黄河	hlhe
 黄海	hlhd
 晃晃	hlhl
+黄祸	hlho
 惶惑	hlho
 换来换去	hlhq
 忽冷忽热	hlhr
@@ -24886,6 +24889,7 @@ IP地址	ipdv
 几张	jivh
 记帐	jivh
 机制	jivi
+基站	jivj
 激战	jivj
 集中	jivs
 记住	jivu
@@ -24916,6 +24920,7 @@ IP地址	ipdv
 记忆	jiyi
 机缘	jiyr
 急用	jiys
+基于	jiyu
 机遇	jiyu
 既有	jiyz
 鸡杂	jiza
@@ -25024,6 +25029,7 @@ IP地址	ipdv
 惊呆	jkdd
 精到	jkdc
 境地	jkdi
+景点	jkdm
 经典	jkdm
 惊动	jkds
 警队	jkdv
@@ -27013,7 +27019,6 @@ IP地址	ipdv
 坑人	kgrf
 客观条件	kgtj
 吭声	kgug
-客观事实	kguu
 口干舌燥	kguz
 坑洼	kgwa
 客观性	kgxk
@@ -28730,6 +28735,7 @@ IP地址	ipdv
 联机	lmji
 练剑	lmjm
 连接	lmjp
+链接	lmjp
 龙马精神	lmju
 廉价	lmjx
 联军	lmjy
@@ -30915,7 +30921,7 @@ IP地址	ipdv
 美国	mwgo
 美观	mwgr
 美工	mwgs
-每股	mwgu
+美股	mwgu
 玫瑰	mwgv
 没给	mwgw
 明文规定	mwgd
@@ -31333,6 +31339,7 @@ IP地址	ipdv
 嫩肉	nfrz
 年复一年	nfyn
 能动	ngds
+能指	ngvi
 年高德劭	ngdu
 年过半百	ngbb
 能否	ngfz
@@ -32093,6 +32100,7 @@ IP地址	ipdv
 欧亚	ouya
 欧阳	ouyh
 欧元	ouyr
+欧罗	euro
 偶遇	ouyu
 呕心沥血	oxlx
 培训	px
@@ -36450,6 +36458,7 @@ IP地址	ipdv
 掏出	tciu
 讨教	tcjn
 淘金	tcjb
+套件	tcjm
 套间	tcjm
 逃课	tcke
 掏空	tcks
@@ -38513,6 +38522,7 @@ IP地址	ipdv
 射出	ueiu
 射进	uejb
 设计	ueji
+射击	ueji
 射精	uejk
 舌尖	uejm
 社交	uejn
@@ -39276,7 +39286,6 @@ IP地址	ipdv
 闪过	ujgo
 山谷	ujgu
 山沟	ujgz
-世界冠军	ujgj
 双节棍	ujgy
 神经过敏	ujgm
 山河	ujhe
@@ -39803,7 +39812,9 @@ IP地址	ipdv
 漱口	uukz
 树林	uulb
 输了	uule
+树立	uuli
 梳理	uuli
+数理	uuli
 收视率	uulv
 首鼠两端	uuld
 数量	uull
@@ -39877,7 +39888,6 @@ IP地址	ipdv
 梳妆	uuvl
 书桌	uuvo
 首善之区	uuvq
-事实证明	uuvm
 甩手掌柜	uuvg
 束手无策	uuwc
 世事无常	uuwi
@@ -40503,7 +40513,6 @@ IP地址	ipdv
 找不到	vbdc
 找不到北	vbdb
 只不过	vbgo
-转不过弯	vbgw
 周边国家	vbgj
 准备好	vbhc
 准备好了	vbhl
@@ -40983,17 +40992,12 @@ IP地址	ipdv
 挣脱	vgto
 正统	vgts
 征途	vgtu
-转过头去	vgtq
-转过头来	vgtl
 政审	vguf
 正式	vgui
 震古烁今	vguj
-转过身来	vgul
 证书	vguu
 征税	vguv
 征收	vguz
-转过身去	vguq
-这个时候	vguh
 挣扎	vgva
 征兆	vgvc
 知根知底	vgvd
@@ -41208,15 +41212,11 @@ IP地址	ipdv
 质量	vill
 治疗	viln
 直落	vilo
-之列	vilp
 滞留	vilq
-之路	vilu
 支持率	vilv
 之类	vilw
 芝麻	vima
 殖民	vimb
-只卖	vimd
-之门	vimf
 致命	vimk
 直面	vimm
 之母	vimu
@@ -41524,7 +41524,6 @@ IP地址	ipdv
 装着	vlve
 撞针	vlvf
 装置	vlvi
-转来转去	vlvq
 庄重	vlvs
 庄主	vlvu
 逐鹿中原	vlvy
@@ -41544,7 +41543,6 @@ IP地址	ipdv
 钟灵毓秀	vlyx
 装运	vlyy
 装有	vlyz
-转了一圈	vlyq
 装作	vlzo
 庄子	vlzi
 装载	vlzd
@@ -41711,7 +41709,6 @@ IP地址	ipdv
 专管	vrgr
 专柜	vrgv
 转给	vrgw
-转圜	vrh
 转换	vrhr
 转好	vrhc
 专横	vrhg
@@ -41746,8 +41743,8 @@ IP地址	ipdv
 转念	vrnm
 转暖	vrnr
 转盘	vrpj
+转钱	vrqm
 赚钱	vrqm
-转强	vrql
 转圈	vrqr
 赚取	vrqu
 专人	vrrf
@@ -42054,6 +42051,7 @@ IP地址	ipdv
 主权	vuqr
 朱雀	vuqt
 置身其中	vuqv
+主人	vurf
 主任	vurf
 逐日	vuri
 助燃	vurj
@@ -42325,7 +42323,6 @@ IP地址	ipdv
 忠言逆耳	vyne
 这样那样	vyny
 只言片语	vypy
-转一圈	vyqr
 竹叶青	vyqk
 准确	vyqt
 准入	vyru
@@ -42430,7 +42427,6 @@ IP地址	ipdv
 为了	wl
 完全	wq
 文字	wz
-无线	wx
 唯一	wy
 微软	wr
 为此	wc
@@ -43390,6 +43386,7 @@ IP地址	ipdv
 无锡	wuxi
 无形	wuxk
 无限	wuxm
+无线	wuxm
 无效	wuxn
 无邪	wuxp
 午休	wuxq
@@ -44704,6 +44701,7 @@ IP地址	ipdv
 险些	xmxp
 纤秀	xmxq
 鲜血	xmxt
+线下	xmxx
 闲暇	xmxx
 像模像样	xmxy
 先用	xmys
@@ -46878,6 +46876,7 @@ IP地址	ipdv
 医嘱	yivu
 一周	yivz
 癔症	yivg
+以外	yiwd
 意外	yiwd
 疑问	yiwf
 腰缠万贯	yiwg
@@ -46909,6 +46908,7 @@ IP地址	ipdv
 意义	yiyi
 遗言	yiyj
 医院	yiyr
+意愿	yiyr
 议员	yiyr
 易用	yiys
 一月	yiyt
@@ -47164,6 +47164,7 @@ IP地址	ipdv
 迎接	ykjp
 有口皆碑	ykjb
 应急	ykji
+营妓	ykji
 应景	ykjk
 硬件	ykjm
 营救	ykjq
@@ -50741,7 +50742,6 @@ IP地址	ipdv
 审时度势	uudu
 水深火热	uuhr
 书籍	uuji
-树立	uuli
 顺顺利利	uull
 神神秘秘	uumm
 树木	uumu
@@ -51178,6 +51178,7 @@ IP地址	ipdv
 指导	vidc
 以下	yixx
 一致	yivi
+只是	viui
 知识	viui
 二十	erui
 成为	igww
@@ -51189,6 +51190,7 @@ IP地址	ipdv
 事件	uijm
 实践	uijm
 水瓶	uvpk
+事实	uiui
 实施	uiui
 深思	ufsi
 美洲	mwvz
@@ -51267,7 +51269,6 @@ IP地址	ipdv
 支持	vi
 整句	vj
 追求	vq
-只是	vu
 真正	vv
 这些	vx
 主意	vy
@@ -52349,12 +52350,10 @@ GDP	gdp
 姗姗来迟	uul
 简洁	jjd
 精力	jlv
-基于	jya
 截至	jva
 距离	jlw
 记忆	jyx
 梳理	ulw
-事实	uub
 哲理	vlw
 置顶	vdd
 指示	vue
@@ -56510,7 +56509,6 @@ AA制	aav
 中期	vsq
 中途	vst
 涨停板	vtb
-转托管	vtg
 直通车	vti
 状态栏	vtl
 真他妈	vtm
@@ -56561,7 +56559,6 @@ AA制	aav
 这一块	vyk
 注意力	vyl
 至于吗	vym
-转一圈	vyq
 准入	vyr
 这也算	vys
 这一天	vyt
